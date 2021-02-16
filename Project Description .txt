@@ -1,0 +1,21 @@
+Project Name	: Banking Management System
+ID No		: 1257095
+Name		: Mohammad Arif 
+Batch ID No	: ESAD-CS/NVIT-M/44/01	
+
+Project Description	: My Project name is Banking Management System . I separate this project two Catagory DDL and DML ..  I  do this Project how we operate Banking activity .
+                                             I record this Project all information about acount's holder ,Employee information   etc. Here I Present Database Create with customize propertise .
+                                             I Create a Scaler function and Tabular function for showing dynamic information . I Create a after trigger  for auto firing  after insert values into table  .
+                                             I create store procedure for insert value into table . I create view with schemabinding and with Encryption for security purpose .
+                                             I used this project six clused for query.  I Use Merge for update matched unmatched between two table. I am also show this project truncate ,Delete ,all join , Cast Convert , Distinct
+                                            Aggregate Function .Mathematical operation , carsor, Fatch  etc .
+
+
+
+
+
+
+
+   
+
+ 
